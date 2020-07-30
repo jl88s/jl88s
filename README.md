@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![GitHub Logo](/d_astro1_3.gif)
+![GitHub Logo](https://imgur.com/rqlS7XH)
 
 <!--
 **jl88s/jl88s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
