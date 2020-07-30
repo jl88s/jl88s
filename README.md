@@ -3,8 +3,7 @@
 
 <img align="right" height="auto" width="500" alt="GIF" src="https://media.giphy.com/media/WrZgvWyB8lcR2WCxW5/source.gif" />
 
-**jl88s/jl88s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,3 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
