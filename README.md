@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<img align="right" height="270px" width="450px" alt="GIF" src="https://imgur.com/rqlS7XH" />
+<br />
+
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/paVD7uL8uz6us/giphy.gif" />
 <br />
 
 <!--
