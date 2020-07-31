@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="auto" width="57%" alt="GIF" src="https://media.giphy.com/media/WrZgvWyB8lcR2WCxW5/source.gif"/>
+  <img height="auto" width="58%" alt="GIF" src="https://media.giphy.com/media/WrZgvWyB8lcR2WCxW5/source.gif"/>
 </p>
 
 <!-- https://shields.io/ & https://simpleicons.org/ for the icons -->
