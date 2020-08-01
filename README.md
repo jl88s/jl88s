@@ -10,12 +10,16 @@
 <br />
 
 ```javascript
-const jomareeLawsin = {
+const Jomaree = {
   pronouns: "him" | "he",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  Hobbies: [
+    Hiking, Cycling, Hearthstone, Reading, Cooking, Meditation
+  ]
+  
+  challenge: "I am doing the 30 days challenge focused on JavaScript"
 }
 ```
 
