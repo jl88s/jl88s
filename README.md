@@ -20,10 +20,7 @@ const jomaree = {
   frameworks: [Bootstrap, Materialize],
   design: [Adobe Illustration, Photoshop, Lightroom, Figma, Invision, Sketch, Pencil & Paper],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  hobbies: [
-    hiking, cycling, hearthstone, reading, eating
-  ],
-  
+  hobbies: [hiking, cycling, hearthstone, reading, eating],
   challenge: "doing wes bos's 30-days challenge focused on JavaScript"
 }
 ```
