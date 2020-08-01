@@ -7,6 +7,12 @@
 [![Twitter](https://img.shields.io/badge/TWITTER-313131?style=flat-square&labelColor=313131&logo=Twitter&logoColor=white&color=313131)](https://twitter.com/jlawsin88)
 [![Codepen](https://img.shields.io/badge/-CODEPEN-313131?style=flat-square&labelColor=313131&logo=Codepen&logoColor=white&color=313131)](https://codepen.io/jl88s)
 [![DEV](https://img.shields.io/badge/-DEV.to-313131?style=flat-square&labelColor=313131&logo=dev.to&logoColor=white&color=313131)](https://dev.to/qws_)
+[![](https://img.shields.io/badge/-313131?style=flat-square&labelColor=313131&logo=&logoColor=white&color=313131)]()[![](https://img.shields.io/badge/-313131?style=flat-square&labelColor=313131&logo=&logoColor=white&color=313131)]()
+[![](https://img.shields.io/badge/-313131?style=flat-square&labelColor=313131&logo=&logoColor=white&color=313131)]()[![](https://img.shields.io/badge/-313131?style=flat-square&labelColor=313131&logo=&logoColor=white&color=313131)]()[![](https://img.shields.io/badge/-313131?style=flat-square&labelColor=313131&logo=&logoColor=white&color=313131)]()
+[![](https://img.shields.io/badge/-313131?style=flat-square&labelColor=313131&logo=&logoColor=white&color=313131)]()[![](https://img.shields.io/badge/-313131?style=flat-square&labelColor=313131&logo=&logoColor=white&color=313131)]()
+[![](https://img.shields.io/badge/-313131?style=flat-square&labelColor=313131&logo=&logoColor=white&color=313131)]()[![](https://img.shields.io/badge/-313131?style=flat-square&labelColor=313131&logo=&logoColor=white&color=313131)]()
+
+
 
 🔭 I’m currently working on ...
 <br />
