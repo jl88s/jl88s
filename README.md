@@ -14,7 +14,7 @@ const jomaree = {
   architecture: ["microservices", "event-driven", "design system pattern"],
   hobbies: [
     hiking, cycling, hearthstone, reading, eating
-  ]
+  ],
   
   challenge: "doing wes bos's 30-days challenge focused on JavaScript"
 }
