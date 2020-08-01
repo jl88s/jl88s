@@ -25,7 +25,7 @@ const jomaree = {
 }
 ```
 <details>
-  <summary> <b>Progress bar</b> <i>(click to expand!)</i> </summary>
+  <summary> <b>PROGRESS</b> </summary>
   
   <br>
   
