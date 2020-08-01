@@ -1,4 +1,3 @@
-  
 <img align="right" height="auto" width="45%" alt="GIF" src="https://media.giphy.com/media/WrZgvWyB8lcR2WCxW5/source.gif"/>
 
 [![Gmail](https://img.shields.io/badge/GMAIL-313131?style=flat-square&labelColor=313131&logo=Gmail&logoColor=white&color=313131)](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=jclawsin88@gmail.com)
@@ -7,19 +6,17 @@
 [![Twitter](https://img.shields.io/badge/TWITTER-313131?style=flat-square&labelColor=313131&logo=Twitter&logoColor=white&color=313131)](https://twitter.com/jlawsin88)
 [![Codepen](https://img.shields.io/badge/-CODEPEN-313131?style=flat-square&labelColor=313131&logo=Codepen&logoColor=white&color=313131)](https://codepen.io/jl88s)
 
-<br />
-
 ```javascript
-const Jomaree = {
+const jomaree = {
   pronouns: "him" | "he",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   hobbies: [
-    Hiking, Cycling, Hearthstone, Reading, Cooking, Meditation
+    hiking, cycling, hearthstone, reading, eating
   ]
   
-  challenge: "I am doing the 30 days challenge focused on JavaScript"
+  challenge: "doing wes bos's 30-days challenge focused on JavaScript"
 }
 ```
 
