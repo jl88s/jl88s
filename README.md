@@ -25,6 +25,13 @@ const jomaree = {
   challenge: "doing wes bos's 30-days challenge focused on JavaScript"
 }
 ```
+<details>
+  <summary> <b>Progress bar</b> <i>(click to expand!)</i> </summary>
+  
+  <br>
+  
+  [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=quadrified&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!-- 
 
