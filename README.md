@@ -1,6 +1,6 @@
 <div align="center">
  
-<img height="auto" width="55%" alt="GIF" src="https://media.giphy.com/media/WrZgvWyB8lcR2WCxW5/source.gif"/>
+<img height="auto" width="50%" alt="GIF" src="https://media.giphy.com/media/WrZgvWyB8lcR2WCxW5/source.gif"/>
 
  
 [![Gmail](https://img.shields.io/badge/GMAIL-313131?style=flat-square&labelColor=313131&logo=Gmail&logoColor=white&color=313131)](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=jclawsin88@gmail.com)
@@ -10,8 +10,6 @@
 [![Codepen](https://img.shields.io/badge/-CODEPEN-313131?style=flat-square&labelColor=313131&logo=Codepen&logoColor=white&color=313131)](https://codepen.io/jl88s)
 
 </div>
-
-#
 
 🔭 I’m currently working on ...
 <br />
@@ -28,4 +26,3 @@
 😄 Pronouns: ...
 <br />
 ⚡ Fun fact: ...
-# 
