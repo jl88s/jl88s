@@ -1,6 +1,4 @@
-<p align="right">
-  <img height="auto" width="525" alt="GIF" src="https://media.giphy.com/media/WrZgvWyB8lcR2WCxW5/source.gif"/>
-</p>
+ <img align="right" height="auto" width="525" alt="GIF" src="https://media.giphy.com/media/WrZgvWyB8lcR2WCxW5/source.gif"/>
 
 <!-- https://shields.io/ & https://simpleicons.org/ for the icons -->
   [![Gmail](https://img.shields.io/badge/GMAIL-313131?style=flat-square&labelColor=313131&logo=Gmail&logoColor=white&color=313131)](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=jclawsin88@gmail.com)
