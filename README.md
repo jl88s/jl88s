@@ -14,8 +14,10 @@
 ```javascript
 const jomaree = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  code: [Javascript, HTML, CSS, Ruby],
+  tools: [Sass, Gulp, Zshell, VSCode, Git, Github, DevTools, Netlify],
+  frameworks: [Bootstrap, Materialize],
+  design: [Adobe Illustration, Photoshop, Lightroom, Figma, Invision, Sketch, Pencil & Paper],
   architecture: ["microservices", "event-driven", "design system pattern"],
   hobbies: [
     hiking, cycling, hearthstone, reading, eating
