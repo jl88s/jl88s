@@ -1,6 +1,8 @@
-# Hello World! 👋
+#
 
-<img align="right" height="60%" width="43%" alt="GIF" src="https://media.giphy.com/media/WrZgvWyB8lcR2WCxW5/source.gif"/>
+<img align="right" height="auto" width="60%" alt="GIF" src="https://media.giphy.com/media/WrZgvWyB8lcR2WCxW5/source.gif"/>
+
+<br />
 
 <div align="left">
   
