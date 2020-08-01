@@ -7,23 +7,17 @@
 [![Twitter](https://img.shields.io/badge/TWITTER-313131?style=flat-square&labelColor=313131&logo=Twitter&logoColor=white&color=313131)](https://twitter.com/jlawsin88)
 [![Codepen](https://img.shields.io/badge/-CODEPEN-313131?style=flat-square&labelColor=313131&logo=Codepen&logoColor=white&color=313131)](https://codepen.io/jl88s)
 
+<br />
+
 ```javascript
 const jomareeLawsin = {
   pronouns: "him" | "he",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
-
-
-
 
 <!-- 
 
