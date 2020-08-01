@@ -25,7 +25,7 @@ const jomaree = {
 }
 ```
 <details>
-  <summary> <b>PROGRESS</b> </summary>
+  <summary> <b>Stats</b> </summary>
   
   <br>
   
