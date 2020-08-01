@@ -6,7 +6,6 @@
 [![Dev.to](https://img.shields.io/badge/-DEV.TO-313131?style=flat-square&labelColor=313131&logo=DEV.TO&logoColor=white&color=313131)](https://codepen.io/jl88s)
 [![Spotify](https://img.shields.io/badge/-SPOTIFY-313131?style=flat-square&labelColor=313131&logo=SPOTIFY&logoColor=white&color=313131)](https://codepen.io/jl88s)
 [![Soundcloud](https://img.shields.io/badge/-SOUNDCLOUD-313131?style=flat-square&labelColor=313131&logo=SOUNDCLOUD&logoColor=white&color=313131)](https://codepen.io/jl88s)
-[![Reddit](https://img.shields.io/badge/-REDDIT-313131?style=flat-square&labelColor=313131&logo=REDDIT&logoColor=white&color=313131)](https://codepen.io/jl88s)
 [![Discord](https://img.shields.io/badge/-DISCORD-313131?style=flat-square&labelColor=313131&logo=DISCORD&logoColor=white&color=313131)](https://codepen.io/jl88s)
 
 <img align="right" height="auto" width="44%" alt="GIF" src="https://media.giphy.com/media/WrZgvWyB8lcR2WCxW5/source.gif"/>
