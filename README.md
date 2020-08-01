@@ -8,7 +8,7 @@
 [![Soundcloud](https://img.shields.io/badge/-SOUNDCLOUD-313131?style=flat-square&labelColor=313131&logo=SOUNDCLOUD&logoColor=white&color=313131)](https://codepen.io/jl88s)
 [![Discord](https://img.shields.io/badge/-DISCORD-313131?style=flat-square&labelColor=313131&logo=DISCORD&logoColor=white&color=313131)](https://codepen.io/jl88s)
 
-<img align="right" height="auto" width="44%" alt="GIF" src="https://media.giphy.com/media/WrZgvWyB8lcR2WCxW5/source.gif"/>
+<img align="right" height="auto" width="40%" alt="GIF" src="https://media.giphy.com/media/WrZgvWyB8lcR2WCxW5/source.gif"/>
 
 ```javascript
 const jomaree = {
