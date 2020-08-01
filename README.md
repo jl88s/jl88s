@@ -1,5 +1,5 @@
   
-<img align="right" height="auto" width="55%" alt="GIF" src="https://media.giphy.com/media/WrZgvWyB8lcR2WCxW5/source.gif"/>
+<img align="right" height="auto" width="40%" alt="GIF" src="https://media.giphy.com/media/WrZgvWyB8lcR2WCxW5/source.gif"/>
 
 [![Gmail](https://img.shields.io/badge/GMAIL-313131?style=flat-square&labelColor=313131&logo=Gmail&logoColor=white&color=313131)](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=jclawsin88@gmail.com)
 [![linkedin](https://img.shields.io/badge/LINKEDIN-313131?style=flat-square&labelColor=313131&logo=LinkedIn&logoColor=white&color=313131)](https://www.linkedin.com/in/jomaree-lawsin-12646319b/)
@@ -8,8 +8,8 @@
 [![Codepen](https://img.shields.io/badge/-CODEPEN-313131?style=flat-square&labelColor=313131&logo=Codepen&logoColor=white&color=313131)](https://codepen.io/jl88s)
 
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
+const jomareeLawsin = {
+  pronouns: "him" | "he",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
