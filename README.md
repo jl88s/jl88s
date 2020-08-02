@@ -19,6 +19,8 @@
   
   <br />
   
+  ### Hello World, I'm Jomaree! 
+  
   🔭 I’m currently working on ...
 <br />
 🌱 I’m currently learning ...
@@ -34,7 +36,8 @@
 😄 Pronouns: ...
 <br />
 ⚡ Fun fact: ...
- 
+
+#
   
 ![jl88's github stats](https://github-readme-stats.vercel.app/api?username=jl88s&count_private=true&theme=onedark&show_icons=true&hide_title=true&count_private=true&line_height=22&include_all_commits=true)
 
