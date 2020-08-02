@@ -38,8 +38,6 @@ const jomaree = {
 ```
 
 </div>
-
-<div>  
 <details>
   <summary>
     <b>Stats</b> 
@@ -59,7 +57,6 @@ const jomaree = {
   challenge: "doing wes bos's 30-days challenge focused on JavaScript"
 }
 ```
-</div>
 
 <!-- 
 
