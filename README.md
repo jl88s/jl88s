@@ -49,8 +49,7 @@
   📫 ***How to reach me***: click the *Gmail* link up top or message me through *social media*.
 <br />
 
-#
-<br />
+##### Development:
 
  ```javascript
 const jomareeLawsin = {
@@ -65,8 +64,7 @@ const jomareeLawsin = {
 ```
 </div>
   
-#
-<br />
+##### Stats:
   
 <!-- stats made by anuraghazra @ https://github.com/anuraghazra/github-readme-stats -->
 ![jl88's github stats](https://github-readme-stats.vercel.app/api?username=jl88s&count_private=true&theme=onedark&show_icons=true&hide_title=true&count_private=true&line_height=22&include_all_commits=true)
