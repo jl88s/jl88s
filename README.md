@@ -80,7 +80,7 @@ const developer = {
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=jl88s&count_private=true&theme=onedark&show_icons=true&hide_title=false&count_private=true&line_height=22&include_all_commits=true" />
 </a>
 <a href="https://github.com/jl88s/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jl88s&layout=compact&theme=vue&card_width=360&hide_title=false" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jl88s&layout=compact&theme=vue&card_width=300&hide_title=false" />
 </a>
 
 <!--
