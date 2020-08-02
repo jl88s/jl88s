@@ -19,10 +19,8 @@
   
   <br />
   
-  ### Hello World, I'm Jomaree! 
-  
-  <div align="left" margin="0 auto">
-  
+  ### Hello World, I'm Jomaree! 👋
+    
   🔭 I’m currently working on ...
 <br />
 🌱 I’m currently learning ...
@@ -38,8 +36,6 @@
 😄 Pronouns: ...
 <br />
 ⚡ Fun fact: ...
-
-</div>
 
 #
 
