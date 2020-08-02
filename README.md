@@ -27,18 +27,25 @@
   
   🔭 I’m currently working on fixing my personal website.
 <br />
+
   🌱 I’m currently learning JavaScript, Sass, Gulp, Materialize, Bootstrap, and hopefully React soon!
 <br />
+
   👯 I’m looking to collaborate on a creative and fun project so I can branch out of my interversion!
 <br />
+
   🤔 I’m looking for help with JavaScript! I want to master it... if that's even possible, heh.
 <br />
+
   💬 Ask me about anything? 
 <br />
+
   📫 How to reach me: click the Gmail link up top or message me through social media.
 <br />
+
   😄 Pronouns: he, him.
 <br />
+
   ⚡ Fun fact: Did you know.... California (USA) has the tallest mountain in all of the lower 48 States. South on the Sierra Nevadas, Mt. Whitney has an elevation of <b>14,505<b> feet!
   
   </div>
