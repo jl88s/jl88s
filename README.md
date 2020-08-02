@@ -56,11 +56,11 @@ const self = {
   person: {
     name: Jomaree Lawsin,
     gender: Male,
-    age: 1988,
-    martial status: married,
-    location: US California,
+    age: 30+,
+    martial_status: married,
+    location: California,
     ethnicity: Filipino
-  } 
+  },
   code: [Javascript, HTML5, CSS3, Ruby],
   tools: [Sass, Gulp, Zshell, VSCode, Git, Github, DevTools, Netlify],
   frameworks: [Bootstrap, Materialize],
