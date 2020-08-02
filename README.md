@@ -19,10 +19,10 @@
   
   <br />
   
+   <div align="left">
+  
   ## Hello World, I'm Jomaree! 👋
- 
- <div align="left">
- 
+  
   🔭 I’m currently working on fixing my personal website.
 <br />
   🌱 I’m currently learning JavaScript, Sass, Gulp, Materialize, Bootstrap, and hopefully React soon!
