@@ -49,7 +49,7 @@
   📫 ***How to reach me***: click the *Gmail* link up top or message me through *social media*.
 <br />
 
-#### Development:
+### Development:
 
  ```javascript
 const developer = {
@@ -71,7 +71,7 @@ const developer = {
 }
 ```
 
-#### Stats:
+### Stats:
 
 </div>
   
