@@ -37,7 +37,8 @@
   🤔 I’m looking for help with ***JavaScript***! I want to master it... if that's even possible, heh.
 <br />
 
-  ⚡ Fun fact: Did you know.... **California** (USA) has the tallest mountain in all of the lower *48 States*. South on the **Sierra Nevadas**, **Mt. Whitney** has an elevation of ***14,505*** feet!
+  ⚡ ***Fun fact***: Did you know.... That **California** (*USA*) has the tallest mountain in all of the lower *48 States*. 
+  South on the **Sierra Nevadas**, **Mt. Whitney** has an elevation of ***14,505*** feet!
 <br />
 
   💬 Ask me about anything I'm friendly, I swear.
@@ -45,19 +46,6 @@
 
   📫 ***How to reach me***: click the *Gmail* link up top or message me through *social media*.
 <br />
-  
-  </div>
-
-<br />
-  
-![jl88's github stats](https://github-readme-stats.vercel.app/api?username=jl88s&count_private=true&theme=onedark&show_icons=true&hide_title=true&count_private=true&line_height=22&include_all_commits=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jl88s&layout=compact&theme=vue&card_width=300&hide_title=true)](https://github.com/jl88s/github-readme-stats)
-
-</div>
-
-
-<!-- 
 
  ```javascript
 const jomaree = {
@@ -71,4 +59,13 @@ const jomaree = {
   challenge: "doing wes bos's 30-days challenge focused on JavaScript"
 }
 ```
--->
+  
+  </div>
+
+<br />
+  
+![jl88's github stats](https://github-readme-stats.vercel.app/api?username=jl88s&count_private=true&theme=onedark&show_icons=true&hide_title=true&count_private=true&line_height=22&include_all_commits=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jl88s&layout=compact&theme=vue&card_width=300&hide_title=true)](https://github.com/jl88s/github-readme-stats)
+
+</div>
