@@ -21,7 +21,7 @@
   
   ## Hello World, I'm Jomaree! 👋
  
- <div width="50%">
+ <div align="left">
  
   🔭 I’m currently working on fixing my personal website.
 <br />
