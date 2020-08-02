@@ -16,7 +16,7 @@
   <summary>
   </summary>
   
-![jl88's github stats](https://github-readme-stats.vercel.app/api?username=jl88s&count_private=true&theme=onedark&show_icons=true&show_owner=false&count_private=true)
+![jl88's github stats](https://github-readme-stats.vercel.app/api?username=jl88s&count_private=true&theme=onedark&show_icons=true&hide_title=true&count_private=true)
 
   <!--
 ```javascript
