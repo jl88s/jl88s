@@ -1,5 +1,6 @@
 <div align="center">
-  <img height="auto" width="65%" alt="GIF" src="https://media.giphy.com/media/WrZgvWyB8lcR2WCxW5/source.gif"/>
+    <!-- gif made by Geoff Keough @ https://dribbble.com/gdk221 -->
+    <img height="auto" width="65%" alt="GIF" src="https://media.giphy.com/media/WrZgvWyB8lcR2WCxW5/source.gif"/>
 </div>
 
 <br />
@@ -12,17 +13,19 @@
   [![Twitter](https://img.shields.io/badge/TWITTER-282c34?style=flat-square&labelColor=282c34&logo=Twitter&logoColor=white&color=282c34)](https://twitter.com/jlawsin88)
   [![Dev.to](https://img.shields.io/badge/DEV.TO-282c34?style=flat-square&labelColor=282c34&logo=DEV.TO&logoColor=white&color=282c34)](https://dev.to/qws_)
     
+  <!-- this block of code is for the dropdown menu effect -->
   <details>
     <summary>
     <i>(click me)</i>
     </summary>
   
-  <br />
+<br />
   
-   <div align="left">
+<div align="left">
   
   # Hello World, I'm Jomaree! 👋
   
+  <!-- gif made by sofie nilsson @ https://dribbble.com/sofienilsson -->
   <img align="right" height="auto" width="35%" alt="GIF" src="https://media.giphy.com/media/ZdTy2TPz6l99o37E55/giphy.gif"/>
   
   🔭 I’m currently working on fixing my personal website and a handful of tutorials before I start class.
@@ -60,11 +63,12 @@ const jomareeLawsin = {
   challenge: "doing wes bos's 30-days challenge focused on JavaScript"
 }
 ```
-  </div>
+</div>
   
 #
 <br />
   
+<!-- stats made by anuraghazra @ https://github.com/anuraghazra/github-readme-stats -->
 ![jl88's github stats](https://github-readme-stats.vercel.app/api?username=jl88s&count_private=true&theme=onedark&show_icons=true&hide_title=true&count_private=true&line_height=22&include_all_commits=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jl88s&layout=compact&theme=vue&card_width=300&hide_title=true)](https://github.com/jl88s/github-readme-stats)
