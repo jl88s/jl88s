@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  [![Gmail](https://img.shields.io/badge/GMAIL-313131?style=flat-square&labelColor=313131&logo=Gmail&logoColor=white&color=313131)](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=jclawsin88@gmail.com)
+  [![Gmail](https://img.shields.io/badge/GMAIL-282c34?style=flat-square&labelColor=282c34&logo=Gmail&logoColor=white&color=282c34)](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=jclawsin88@gmail.com)
   [![linkedin](https://img.shields.io/badge/LINKEDIN-313131?style=flat-square&labelColor=313131&logo=LinkedIn&logoColor=white&color=313131)](https://www.linkedin.com/in/jomaree-lawsin-12646319b/)
   [![Instagram](https://img.shields.io/badge/INSTAGRAM-313131?style=flat-square&labelColor=313131&logo=Instagram&logoColor=white&color=313131)](https://www.instagram.com/qws_one/)
   [![Twitter](https://img.shields.io/badge/TWITTER-313131?style=flat-square&labelColor=313131&logo=Twitter&logoColor=white&color=313131)](https://twitter.com/jlawsin88)
