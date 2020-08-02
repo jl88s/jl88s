@@ -71,9 +71,9 @@ const developer = {
 }
 ```
 
-</div>
-
 #### Stats:
+
+</div>
   
 <!-- stats made by anuraghazra @ https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://github.com/jl88s/github-readme-stats">
