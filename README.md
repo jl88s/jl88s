@@ -12,6 +12,8 @@
   [![Twitter](https://img.shields.io/badge/TWITTER-282c34?style=flat-square&labelColor=282c34&logo=Twitter&logoColor=white&color=282c34)](https://twitter.com/jlawsin88)
   [![Dev.to](https://img.shields.io/badge/DEV.TO-282c34?style=flat-square&labelColor=282c34&logo=DEV.TO&logoColor=white&color=282c34)](https://dev.to/qws_)
   
+  </div>
+  
   <details>
     <summary>
     <i>(click me)</i>
@@ -20,9 +22,6 @@
   <br />
   
   ```javascript
-  
-    <p align="left">
-
 const jomaree = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Ruby],
@@ -33,20 +32,11 @@ const jomaree = {
   hobbies: [hiking, cycling, hearthstone, reading, eating],
   challenge: "doing wes bos's 30-days challenge focused on JavaScript"
 }
-
-  </p>
-
 ```
-
   
 ![jl88's github stats](https://github-readme-stats.vercel.app/api?username=jl88s&count_private=true&theme=onedark&show_icons=true&hide_title=true&count_private=true&line_height=22&include_all_commits=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jl88s&layout=compact&theme=vue&card_width=300&hide_title=true)](https://github.com/jl88s/github-readme-stats)
-
-  
-
-#
-
 
 
 <!-- 
