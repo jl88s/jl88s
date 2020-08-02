@@ -20,6 +20,9 @@
   <br />
   
   ```javascript
+  
+    <p align="left">
+
 const jomaree = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Ruby],
@@ -30,6 +33,9 @@ const jomaree = {
   hobbies: [hiking, cycling, hearthstone, reading, eating],
   challenge: "doing wes bos's 30-days challenge focused on JavaScript"
 }
+
+  </p>
+
 ```
 
   
