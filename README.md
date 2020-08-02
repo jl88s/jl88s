@@ -34,7 +34,7 @@
   🎮 I’m looking to collaborate on a creative and fun project so I can branch out of my interversion!
 <br />
 
-  🤔 I’m looking for help with ***JavaScript***! I want to master it... if that's even possible, heh.
+  🤔 I’m looking for help with ***JavaScript***! I want to master it... if that's even possible, heh. 
 <br />
 
   ⚡ ***Fun fact***: Did you know.... That **California** (*USA*) has the tallest mountain in all of the lower *48 States*. South on the **Sierra Nevadas**, **Mt. Whitney** has an elevation of ***14,505*** feet!
@@ -50,9 +50,8 @@
 <br />
 
  ```javascript
-const jomaree = {
-  pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Ruby],
+const jomareeLawsin = {
+  code: [Javascript, HTML5, CSS3, Ruby],
   tools: [Sass, Gulp, Zshell, VSCode, Git, Github, DevTools, Netlify],
   frameworks: [Bootstrap, Materialize],
   design: [Adobe Illustration, Photoshop, Lightroom, Figma, Invision, Sketch, Pencil & Paper],
