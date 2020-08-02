@@ -11,52 +11,30 @@
   [![Instagram](https://img.shields.io/badge/INSTAGRAM-313131?style=flat-square&labelColor=313131&logo=Instagram&logoColor=white&color=313131)](https://www.instagram.com/qws_one/)
   [![Twitter](https://img.shields.io/badge/TWITTER-313131?style=flat-square&labelColor=313131&logo=Twitter&logoColor=white&color=313131)](https://twitter.com/jlawsin88)
   [![Dev.to](https://img.shields.io/badge/DEV.TO-313131?style=flat-square&labelColor=313131&logo=DEV.TO&logoColor=white&color=313131)](https://dev.to/qws_)
+  
+  <details>
+  <summary>
+    <b>About</b> 
+  </summary>
+  
+```javascript
+const jomaree = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS, Ruby],
+  tools: [Sass, Gulp, Zshell, VSCode, Git, Github, DevTools, Netlify],
+  frameworks: [Bootstrap, Materialize],
+  design: [Adobe Illustration, Photoshop, Lightroom, Figma, Invision, Sketch, Pencil & Paper],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  hobbies: [hiking, cycling, hearthstone, reading, eating],
+  challenge: "doing wes bos's 30-days challenge focused on JavaScript"
+}
+```
 
 </div>
 
 #
 
-<div>
-<details>
-  <summary>
-    <b>About</b> 
-  </summary>
-  
-  <br>
-  
-```javascript
-const jomaree = {
-  pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Ruby],
-  tools: [Sass, Gulp, Zshell, VSCode, Git, Github, DevTools, Netlify],
-  frameworks: [Bootstrap, Materialize],
-  design: [Adobe Illustration, Photoshop, Lightroom, Figma, Invision, Sketch, Pencil & Paper],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  hobbies: [hiking, cycling, hearthstone, reading, eating],
-  challenge: "doing wes bos's 30-days challenge focused on JavaScript"
-}
-```
 
-</div>
-<details>
-  <summary>
-    <b>Stats</b> 
-  </summary>
-  
-  <br>
-  
-```javascript
-const jomaree = {
-  pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Ruby],
-  tools: [Sass, Gulp, Zshell, VSCode, Git, Github, DevTools, Netlify],
-  frameworks: [Bootstrap, Materialize],
-  design: [Adobe Illustration, Photoshop, Lightroom, Figma, Invision, Sketch, Pencil & Paper],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  hobbies: [hiking, cycling, hearthstone, reading, eating],
-  challenge: "doing wes bos's 30-days challenge focused on JavaScript"
-}
-```
 
 <!-- 
 
