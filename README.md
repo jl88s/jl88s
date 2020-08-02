@@ -16,7 +16,7 @@
   <!-- this block of code is for the dropdown menu effect -->
   <details>
     <summary>
-    <i>(click me)</i>
+    <i>(click me!)</i>
     </summary>
   
 <br />
