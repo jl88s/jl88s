@@ -16,6 +16,7 @@
 
 #
 
+<div>
 <details>
   <summary>
     <b>About</b> 
@@ -35,6 +36,30 @@ const jomaree = {
   challenge: "doing wes bos's 30-days challenge focused on JavaScript"
 }
 ```
+
+</div>
+
+<div>  
+<details>
+  <summary>
+    <b>Stats</b> 
+  </summary>
+  
+  <br>
+  
+```javascript
+const jomaree = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS, Ruby],
+  tools: [Sass, Gulp, Zshell, VSCode, Git, Github, DevTools, Netlify],
+  frameworks: [Bootstrap, Materialize],
+  design: [Adobe Illustration, Photoshop, Lightroom, Figma, Invision, Sketch, Pencil & Paper],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  hobbies: [hiking, cycling, hearthstone, reading, eating],
+  challenge: "doing wes bos's 30-days challenge focused on JavaScript"
+}
+```
+</div>
 
 <!-- 
 
