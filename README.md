@@ -16,6 +16,13 @@
 
 #
 
+<details>
+  <summary>
+    <b>About</b> 
+  </summary>
+  
+  <br>
+  
 ```javascript
 const jomaree = {
   pronouns: "he" | "him",
@@ -28,13 +35,6 @@ const jomaree = {
   challenge: "doing wes bos's 30-days challenge focused on JavaScript"
 }
 ```
-<details>
-  <summary> <b>Stats</b> </summary>
-  
-  <br>
-  
-  [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=quadrified&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=313131)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!-- 
 
