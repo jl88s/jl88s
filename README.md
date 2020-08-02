@@ -23,6 +23,8 @@
   
   ## Hello World, I'm Jomaree! 👋
   
+  <img align="right" height="auto" width="35%" alt="GIF" src="https://media.giphy.com/media/ZdTy2TPz6l99o37E55/giphy.gif"/>
+  
   🔭 I’m currently working on fixing my personal website.
 <br />
   🌱 I’m currently learning JavaScript, Sass, Gulp, Materialize, Bootstrap, and hopefully React soon!
