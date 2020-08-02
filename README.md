@@ -1,7 +1,9 @@
-#
+<div align="center">
+  <img height="auto" width="53%" alt="GIF" src="https://media.giphy.com/media/WrZgvWyB8lcR2WCxW5/source.gif"/>
+</div>
 
-<img align="center" height="auto" width="53%" alt="GIF" src="https://media.giphy.com/media/WrZgvWyB8lcR2WCxW5/source.gif"/>
 <br />
+
 <div align="center">
 
   [![Gmail](https://img.shields.io/badge/GMAIL-313131?style=flat-square&labelColor=313131&logo=Gmail&logoColor=white&color=313131)](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=jclawsin88@gmail.com)
