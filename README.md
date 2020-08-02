@@ -1,6 +1,6 @@
 <div align="center">
     <!-- gif made by Geoff Keough @ https://dribbble.com/gdk221 -->
-    <img height="auto" width="60%" alt="GIF" src="https://media.giphy.com/media/WrZgvWyB8lcR2WCxW5/source.gif"/>
+    <img height="auto" width="63%" alt="GIF" src="https://media.giphy.com/media/WrZgvWyB8lcR2WCxW5/source.gif"/>
 </div>
 
 <br />
