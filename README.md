@@ -21,32 +21,30 @@
   
    <div align="left">
   
-  ## Hello World, I'm Jomaree! 👋
+  # Hello World, I'm Jomaree! 👋
   
   <img align="right" height="auto" width="35%" alt="GIF" src="https://media.giphy.com/media/ZdTy2TPz6l99o37E55/giphy.gif"/>
   
-  🔭 I’m currently working on fixing my personal website.
+  🔭 I’m currently working on fixing my personal website and a handful of tutorials before I start class.
 <br />
 
-  🌱 I’m currently learning JavaScript, Sass, Gulp, Materialize, Bootstrap, and hopefully React soon!
+  🌱 I’m currently learning **JavaScript**, **Sass**, **Gulp**, **Materialize**, **Bootstrap**, and hopefully **React** soon!
 <br />
 
-  👯 I’m looking to collaborate on a creative and fun project so I can branch out of my interversion!
+  🎮 I’m looking to collaborate on a creative and fun project so I can branch out of my interversion!
 <br />
 
-  🤔 I’m looking for help with JavaScript! I want to master it... if that's even possible, heh.
+  🤔 I’m looking for help with ***JavaScript***! I want to master it... if that's even possible, heh.
 <br />
 
-  💬 Ask me about anything? 
+  ⚡ Fun fact: Did you know.... **California** (USA) has the tallest mountain in all of the lower *48 States*. South on the **Sierra Nevadas**, **Mt. Whitney** has an elevation of ***14,505*** feet!
 <br />
 
-  📫 How to reach me: click the Gmail link up top or message me through social media.
+  💬 Ask me about anything I'm friendly, I swear.
 <br />
 
-  😄 Pronouns: he, him.
+  📫 ***How to reach me***: click the *Gmail* link up top or message me through *social media*.
 <br />
-
-  ⚡ Fun fact: Did you know.... California (USA) has the tallest mountain in all of the lower 48 States. South on the Sierra Nevadas, Mt. Whitney has an elevation of <b>14,505<b> feet!
   
   </div>
 
