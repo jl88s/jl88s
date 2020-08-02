@@ -20,9 +20,7 @@
   <br />
   
   ## Hello World, I'm Jomaree! 👋
-  
-  <br />
-    
+      
   🔭 I’m currently working on fixing my personal website.
 <br />
   🌱 I’m currently learning JavaScript, Sass, Gulp, Materialize, Bootstrap, and hopefully React soon!
