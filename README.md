@@ -20,6 +20,8 @@
   <br />
   
   ## Hello World, I'm Jomaree! 👋
+  
+  <br />
     
   🔭 I’m currently working on fixing my personal website.
 <br />
