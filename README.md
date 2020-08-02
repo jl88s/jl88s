@@ -16,6 +16,9 @@
   <summary>
   </summary>
   
+![jl88's github stats](https://github-readme-stats.vercel.app/api?username=jl88s&theme=onedark&show_icons=true)
+
+  <!--
 ```javascript
 const jomaree = {
   pronouns: "he" | "him",
@@ -28,8 +31,7 @@ const jomaree = {
   challenge: "doing wes bos's 30-days challenge focused on JavaScript"
 }
 ```
-
-</div>
+-->
 
 #
 
