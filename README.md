@@ -1,6 +1,6 @@
 <div align="center">
     <!-- gif made by Geoff Keough @ https://dribbble.com/gdk221 -->
-    <img height="auto" width="65%" alt="GIF" src="https://media.giphy.com/media/WrZgvWyB8lcR2WCxW5/source.gif"/>
+    <img height="auto" width="60%" alt="GIF" src="https://media.giphy.com/media/WrZgvWyB8lcR2WCxW5/source.gif"/>
 </div>
 
 <br />
@@ -18,9 +18,7 @@
     <summary>
     <i>(click me!)</i>
     </summary>
-  
-<br />
-  
+    
 <div align="left">
   
   # Hello World, I'm Jomaree! 👋
