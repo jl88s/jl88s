@@ -14,7 +14,6 @@
   
   <details>
   <summary>
-    <b>About</b> 
   </summary>
   
 ```javascript
