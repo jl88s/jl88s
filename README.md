@@ -75,11 +75,11 @@ const developer = {
 </div>
   
 <!-- stats made by anuraghazra @ https://github.com/anuraghazra/github-readme-stats -->
-<a href="https://github.com/jl88s/github-readme-stats">
+<a href="https://youtu.be/dQw4w9WgXcQ">
   <img align="" src="https://github-readme-stats.vercel.app/api?username=jl88s&count_private=true&theme=onedark&show_icons=true&hide_title=false&count_private=true&include_all_commits=true" />
 </a>
-<a href="https://github.com/jl88s/convoychat">
-  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jl88s&layout=compact&theme=vue&hide_title=false&height=30" />
+<a href="https://youtu.be/dQw4w9WgXcQ">
+  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jl88s&layout=compact&theme=vue&hide_title=false" />
 </a>
 
 <!--
