@@ -70,7 +70,6 @@ const developer = {
   challenge: "doing wes bos's 30-days challenge focused on JavaScript"
 }
 ```
-
 ## Stats:
 
 </div>
@@ -80,7 +79,7 @@ const developer = {
   <img align="" src="https://github-readme-stats.vercel.app/api?username=jl88s&count_private=true&theme=onedark&show_icons=true&hide_title=false&count_private=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/jl88s/convoychat">
-  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jl88s&layout=compact&theme=vue&hide_title=false" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jl88s&layout=compact&theme=vue&hide_title=false&height=30" />
 </a>
 
 <!--
