@@ -21,7 +21,7 @@
   
   ### Hello World, I'm Jomaree! 
   
-  <div align="left">
+  <div align="left" margin="0 auto">
   
   🔭 I’m currently working on ...
 <br />
@@ -42,10 +42,10 @@
 </div>
 
 #
-  
-![jl88's github stats](https://github-readme-stats.vercel.app/api?username=jl88s&count_private=true&theme=onedark&show_icons=true&hide_title=true&count_private=true&line_height=22&include_all_commits=true)
 
 <br />
+  
+![jl88's github stats](https://github-readme-stats.vercel.app/api?username=jl88s&count_private=true&theme=onedark&show_icons=true&hide_title=true&count_private=true&line_height=22&include_all_commits=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jl88s&layout=compact&theme=vue&card_width=300&hide_title=true)](https://github.com/jl88s/github-readme-stats)
 
