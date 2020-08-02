@@ -26,7 +26,7 @@
   # Hello World, I'm Jomaree! 👋
   
   <!-- gif made by sofie nilsson @ https://dribbble.com/sofienilsson -->
-  <img align="right" height="auto" width="35%" alt="GIF" src="https://media.giphy.com/media/ZdTy2TPz6l99o37E55/giphy.gif"/>
+  <img align="right" height="auto" width="40%" alt="GIF" src="https://media.giphy.com/media/ZdTy2TPz6l99o37E55/giphy.gif"/>
   
   🔭 I’m currently working on fixing my personal website and a handful of tutorials before I start class.
 <br />
