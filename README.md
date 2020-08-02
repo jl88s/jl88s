@@ -20,7 +20,9 @@
   <br />
   
   ## Hello World, I'm Jomaree! 👋
-      
+ 
+ <div width="50%">
+ 
   🔭 I’m currently working on fixing my personal website.
 <br />
   🌱 I’m currently learning JavaScript, Sass, Gulp, Materialize, Bootstrap, and hopefully React soon!
@@ -36,6 +38,8 @@
   😄 Pronouns: he, him.
 <br />
   ⚡ Fun fact: Did you know.... California (USA) has the tallest mountain in all of the lower 48 States. South on the Sierra Nevadas, Mt. Whitney has an elevation of <b>14,505<b> feet!
+  
+  </div>
 
 <br />
   
