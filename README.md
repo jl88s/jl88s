@@ -71,9 +71,9 @@ const developer = {
 ```
 <hr>
 
-</div>
-
 #### Statistics:
+
+</div>
   
 <!-- stats made by anuraghazra @ https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://youtu.be/dQw4w9WgXcQ">
