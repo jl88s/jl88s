@@ -26,7 +26,7 @@
   <!-- gif made by sofie nilsson @ https://dribbble.com/sofienilsson -->
   <img align="right" height="auto" width="37%" alt="GIF" src="https://media.giphy.com/media/ZdTy2TPz6l99o37E55/giphy.gif"/>
   
-  🔭 I’m currently working on fixing my personal website and a handful of tutorials before I start class.
+  🔭 I’m currently working on fixing my personal website and a handful of tutorials before I start class again this fall.
 <br />
 
   🌱 I’m currently learning **JavaScript**, **Sass**, **Gulp**, **Materialize**, **Bootstrap**, and hopefully **React** soon!
@@ -41,7 +41,7 @@
   ⚡ ***Fun fact***: Did you know.... That **California** (*USA*) has the tallest mountain in all of the lower *48 States*. South on the **Sierra Nevadas**, **Mt. Whitney** has an elevation of ***14,505*** feet!
 <br />
 
-  💬 Ask me about anything I'm friendly, I swear.
+  💬 Ask me about anything I'm friendly, I swear 🧟‍♂️.
 <br />
 
   📫 ***How to reach me***: click the *Gmail* link up top or message me through *social media*.
@@ -51,7 +51,7 @@
 #### Development:
 
  ```javascript
-const developer = {
+const dev = {
   person: {
     name: Jomaree Lawsin,
     gender: Male,
@@ -60,13 +60,12 @@ const developer = {
     location: California,
     ethnicity: Filipino
   },
-  code: [Javascript, HTML5, CSS3, Ruby],
-  tools: [Sass, Gulp, Zshell, VSCode, Git, Github, DevTools, Netlify],
-  frameworks: [Bootstrap, Materialize],
-  design: [Adobe Illustration, Photoshop, Lightroom, Figma, Invision, Sketch, Pencil & Paper],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  code: [javascript, html5, css3, ruby],
+  tools: [sass, gulp, zshell, vscode, git, github, devtools, netlify],
+  frameworks: [bootstrap, materialize],
+  design: [adobe illustration, photoshop, lightroom, figma, invision, sketch, pencil & paper],
   hobbies: [hiking, cycling, hearthstone, reading, eating],
-  challenge: "doing wes bos's 30-days challenge focused on JavaScript"
+  challenge: "I just finished wes bos's 30-days challenge focused on javascript"
 }
 ```
 <hr>
