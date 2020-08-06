@@ -41,7 +41,7 @@
   ⚡ ***Fun fact***: Did you know.... That **California** (*USA*) has the tallest mountain in all of the lower *48 States*. South on the **Sierra Nevadas**, **Mt. Whitney** has an elevation of ***14,505*** feet!
 <br />
 
-  💬 Ask me about anything I'm friendly, I swear 🧟‍♂️.
+  💬 Ask me about anything I'm friendly, I swear 🧟‍♂️
 <br />
 
   📫 ***How to reach me***: click the *Gmail* link up top or message me through *social media*.
