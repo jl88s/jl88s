@@ -52,20 +52,20 @@
 
  ```javascript
 const dev = {
-  person: {
+   person: {
     name: Jomaree Lawsin,
-    gender: Male,
+    gender: male,
     age: 30+,
     martial_status: married,
     location: California,
     ethnicity: Filipino
-  },
-  code: [javascript, html5, css3, ruby],
-  tools: [sass, gulp, zshell, vscode, git, github, devtools, netlify],
-  frameworks: [bootstrap, materialize],
-  design: [adobe illustration, photoshop, lightroom, figma, invision, sketch, pencil & paper],
-  hobbies: [hiking, cycling, hearthstone, reading, eating],
-  challenge: "I just finished wes bos's 30-days challenge focused on javascript"
+    },
+   code: [javascript, html5, css3, ruby],
+   tools: [sass, gulp, zshell, vscode, git, github, devtools, netlify],
+   frameworks: [bootstrap, materialize],
+   design: [adobe illustration, photoshop, lightroom, figma, invision, sketch, pencil & paper],
+   hobbies: [hiking, cycling, hearthstone, reading, eating],
+   challenge: "I just finished wes bos's 30-days challenge focused on javascript"
 }
 ```
 <hr>
