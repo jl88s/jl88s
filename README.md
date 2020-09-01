@@ -26,13 +26,13 @@
   <!-- gif made by sofie nilsson @ https://dribbble.com/sofienilsson -->
   <img align="right" height="auto" width="37%" alt="GIF" src="https://media.giphy.com/media/ZdTy2TPz6l99o37E55/giphy.gif"/>
   
-  🔭 I’m currently working on fixing my personal website and a handful of tutorials before I start class again this fall.
+  🔭 I’m currently working on two courses at Mission College: JavaScript 1 & Web Design and Development 2. After taking both classes, I will be at the half way mark of obtaining their Web Developer Certificate. I'm excited to be in a structured setting again and can't wait to move forward. Blessed.
 <br />
 
   🌱 I’m currently learning **JavaScript**, **Sass**, **Gulp**, **Materialize**, **Bootstrap**, and hopefully **React** soon!
 <br />
 
-  🎮 I’m looking to collaborate on a creative and fun project so I can branch out of my interversion!
+  🎮 I’m looking to collaborate on a creative and fun project so I can branch out of my interversion and meet some great Developers!
 <br />
 
   🤔 I’m looking for help with ***JavaScript***! I want to master it... if that's even possible, heh. 
