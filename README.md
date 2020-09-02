@@ -58,10 +58,11 @@ const dev = {
     age: 30+,
     martial_status: married,
     location: California,
-    ethnicity: Filipino
+    ethnicity: Filipino,
+    favorite_food: Butter Chicken
     },
    code: [javascript, html5, css3, ruby],
-   tools: [sass, gulp, zshell, vscode, git, github, devtools, netlify],
+   tools: [sass, gulp, grunt, zshell, vscode, git, github, devtools, netlify],
    frameworks: [bootstrap, materialize],
    design: [adobe illustration, photoshop, lightroom, figma, invision, sketch, pencil & paper],
    hobbies: [hiking, cycling, hearthstone, reading, eating],
