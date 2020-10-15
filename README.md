@@ -26,7 +26,7 @@
   <!-- gif made by sofie nilsson @ https://dribbble.com/sofienilsson -->
   <img align="right" height="auto" width="37%" alt="GIF" src="https://media.giphy.com/media/ZdTy2TPz6l99o37E55/giphy.gif"/>
   
-  🔭 I’m currently working on two courses at Mission College: JavaScript 1 & Web Design and Development 2. After taking both classes, I will be at the half way mark of obtaining their Web Developer Certificate. I'm excited to be in a structured setting again and can't wait to move forward. Blessed.
+  🔭 I’m currently working on two courses at Mission College: JavaScript 1 & Web Design and Development 2. After taking both classes, I will be at the half way mark of obtaining their Web Developer Certificate. I'm excited to be in a structured setting again and can't wait to move forward 🚀
 <br />
 
   🌱 I’m currently learning **JavaScript**, **Sass**, **Gulp**, **Materialize**, **Bootstrap**, and hopefully **React** soon!
